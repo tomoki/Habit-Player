@@ -1,0 +1,23 @@
+#Author: Tomoki_Imai
+#作者 今井 朝貴
+
+__AUTHOR__ = "Tomoki_Imai"
+# This app is for who repeat only One song.
+# Also said for who have Habit of the one music.
+# And for linux.
+# This have English comment and Japanese comment for use this for sample.
+# I think this is useful sample for making Resident Program, Play Music Program ,and Drag And Drop.
+# これは1つの曲をリピートしつづけるひとの為のアプリです。
+# 中毒者用とも言えます。
+# Linux用です。
+# サンプルにする人の為に英語のコメントと日本語のコメントがついています。
+# 常駐アプリや音楽を流すアプリまたはドラッグアンドドロップのよいサンプルでしょう。
+
+# I release this in Public Domain.
+# パブリックドメインでリリースします。
+
+# If you have a question or something ,send email me.
+# Email is tomo832@gmail.com
+# もし何か質問か何かあればメールを送ってください。
+# メールアドレスは tomo832@gmail.com です。
+
